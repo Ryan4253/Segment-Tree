@@ -4,7 +4,7 @@
 // Date 8/13/2021
 // Question: https://neoj.sprout.tw/problem/367/
 /****************************************************/
-
+   
 /**
  * By using a niche technique called lazy propagation, it is possible to make segment tree
  * support modification within a range (usually adding a constant value n between the range)
