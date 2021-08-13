@@ -15,7 +15,7 @@
  * 
  * Range Sum -> value += tag * (r - l) (you may want to use long long for val and tag)
  * Range max / min -> value += tag
- */
+ */ 
 
 #include<bits/stdc++.h>
 using namespace std;

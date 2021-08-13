@@ -12,7 +12,7 @@
  * range sum or range maximun, simply change every line that has a min
  * between 2 values to max or sum between 2 values. For array length N, 
  * there will be a maximun of 2 * N nodes.
- */
+ */ 
 
 #include<bits/stdc++.h>
 using namespace std;
